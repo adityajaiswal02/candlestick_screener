@@ -1,0 +1,4 @@
+TA-Lib
+falsk
+pandas
+yfinance

@@ -1,0 +1,13 @@
+#for using development mode in flask you have to use 'set' instead of 'export'
+
+#for replacing space use ( ) in the find and replace section, This will replace every space in the file
+#for replacing space that is greater than some value for example space after 2 the use ( ){2}
+
+#for ceating a dict with replace find = \n
+#and replace it with ',\n'
+
+#for updating the values in the csv files daily, there we have a route name snapshot, we can visit snap shot on local host for the update or we can create
+a button for snapshot route in the front end (index.html) both ways it will do the same thing
+
+#maybe the python terminal will give error while running flask debugger, so use cmd terminal instraed, it will run smoothly over there.
+
